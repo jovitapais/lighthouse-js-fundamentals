@@ -1,0 +1,1 @@
+console.log(name + " is " + age + " years old.");
